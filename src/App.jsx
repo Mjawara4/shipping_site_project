@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import ShipForm from './pages/ShipForm';
 import EnquiryForm from './pages/EnquiryForm';
-import './styles/global.css';
+import './Styles/global.css';
 
 const App = () => {
     return (
